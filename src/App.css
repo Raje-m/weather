@@ -1,0 +1,56 @@
+#root {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+
+}
+
+body { 
+  margin: 0 10rem;
+}
+
+
+
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-ExtraLight.ttf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-Regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-SemiBold.ttf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url('../public/fonts/IBMPlexSansArabic-Thin.ttf');
+  font-weight: Thin;
+}
